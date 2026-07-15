@@ -19,7 +19,7 @@ function App() {
       <section id='about'>
         <div class="split-container">
           <div class="split-left">
-              <img src='me.png' class='me' alt='ako'></img>
+              <img src='me.png' class='me' alt='meh'></img>
           </div>
           <div class="split-right">
               <h1>about <i>me</i></h1>
