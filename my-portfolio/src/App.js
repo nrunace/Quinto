@@ -2,22 +2,6 @@ import './App.css';
 
 function App() {
   return (
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reloand.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
     <div className="App">
       <div class='nav'>
         <ul>
@@ -29,13 +13,13 @@ function App() {
       </div>
 
       <section id='home'>
-        <img src='Portfolio 2026.png' class='title'></img>
+        <img src='Portfolio 2026.png' class='title' alt='portfolio'></img>
       </section>
 
       <section id='about'>
         <div class="split-container">
           <div class="split-left">
-              <img src='me.png' class='me'></img>
+              <img src='me.png' class='me' alt='ako'></img>
           </div>
           <div class="split-right">
               <h1>about <i>me</i></h1>
